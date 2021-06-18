@@ -5,8 +5,16 @@
 ## Testing
 
 ### 🚦 Integration Testing
-| Project        | Description                                                                                   | Website                                              |
-| -------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| Testcontainers | Lib for JUnit tests, providing throwaway instances of anything runnable in a Docker container | [testcontainers.org](https://www.testcontainers.org) |
+| Project        | Description                                             | Website                                              |
+| -------------- | ------------------------------------------------------- | ---------------------------------------------------- |
+| Testcontainers | JUnit Lib providing throwaway Docker container instance | [testcontainers.org](https://www.testcontainers.org) |
+
+### 🚦 Test Tools
+
+| Project   | Description                                                  | Website                                                                                    |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| GreenMail | Open source test suite of email servers for testing purposes | [greenmail-mail-test.github.io/greenmail](https://greenmail-mail-test.github.io/greenmail) |
+
+
 
 
