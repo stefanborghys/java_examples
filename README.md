@@ -2,23 +2,37 @@
 
 🎉 Playground for testing and experimenting with various Java libraries, frameworks, ...
 
+## Libraries
+
+### 🚦 Libraries
+
+| Project        | Description                                             | Website                        |
+| :------------- | :------------------------------------------------------ | -----------------------------: |
+| JSoup          | Java HTML Parser                                        | https://jsoup.org              |
+
+### 🚦 Middleware
+
+| Project   | Description                                                    | Website                        |
+| :-------- | :------------------------------------------------------------- | -----------------------------: |
+| jOOQ      | Generates Java code from database, allows to build type safe SQL queries through its fluent API | http://www.jooq.org |
+
 ## Testing
 
 ### 🚦 Integration Testing
 
-| Project        | Description                                             | Website                                              |
-| :------------- | :------------------------------------------------------ | ---------------------------------------------------: |
-| Testcontainers | JUnit Lib providing throwaway Docker container instance | [testcontainers.org](https://www.testcontainers.org) |
+| Project        | Description                                             | Website                        |
+| :------------- | :------------------------------------------------------ | -----------------------------: |
+| Testcontainers | JUnit Lib providing throwaway Docker container instance | https://www.testcontainers.org |
 
 ### 🚦 Test Tools
 
-| Project   | Description                                                  | Website                                              |
-| :-------- | :----------------------------------------------------------- | ---------------------------------------------------: |
-| GreenMail | Open source test suite of email servers for testing purposes | [greenmail-mail-test.github.io/greenmail](https://greenmail-mail-test.github.io/greenmail) |
+| Project   | Description                                                  | Website                                         |
+| :-------- | :----------------------------------------------------------- | ----------------------------------------------: |
+| GreenMail | Open source test suite of email servers for testing purposes | https://greenmail-mail-test.github.io/greenmail |
 
 ### 🚦 Test Utils
-| Project    | Description                                     | Website                                     |
-| :--------- | :---------------------------------------------- | ------------------------------------------: |
-| Awaitility | Wait for asynchronous operations during testing | [awaitility.org](http://www.awaitility.org) |
+| Project    | Description                                     | Website                   |
+| :--------- | :---------------------------------------------- | ------------------------: |
+| Awaitility | Wait for asynchronous operations during testing | http://www.awaitility.org |
 
 
