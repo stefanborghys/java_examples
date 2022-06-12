@@ -2,6 +2,14 @@
 
 🎉 Playground for testing and experimenting with various Java libraries, frameworks, ...
 
+## Runtimes
+
+| Project       | Description                        | Website                  |
+| :------------ | :--------------------------------- | -----------------------: |
+| Adoptium      | Prebuilt OpenJDK Binaries for Free | https://adoptium.net     |
+| Adopt OpenJDK | Prebuilt OpenJDK Binaries for Free | https://adoptopenjdk.net |
+
+
 ## Libraries
 
 ### 🚦 Libraries
